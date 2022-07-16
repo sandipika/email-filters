@@ -4,7 +4,7 @@ autoninja.co.in
 axisbank.com
 axisbankmail.in
 bajajallianz.co.in
-bajajfinserv.in
+bajajfinserv
 bigbasket
 bseindia.in
 canon.co.in
@@ -30,7 +30,6 @@ sbilife.co.in
 sharekhan.com
 tataaigonline
 unionbankofindia.com
-vodafone.com
-vodafoneidea.com
-wbsedcl.in
+vodafone
+wbsedcl
 camsonline
