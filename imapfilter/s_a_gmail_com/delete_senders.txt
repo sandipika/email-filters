@@ -26,6 +26,7 @@ nsdl.co.in
 nsdl.com
 payback.in
 quikr.com
+refyne.co.in
 reliancegeneral.co.in
 sampark.gov.in
 sbi.co.in
@@ -38,4 +39,4 @@ vodafone
 wbsedcl
 unionbankofindia
 unionrewardz
-@refyne.co.in
+
