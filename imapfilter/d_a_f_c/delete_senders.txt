@@ -1,5 +1,5 @@
 ailmenets
-amazon\.in
+amazon%.in
 cypesoftware.net
 drawsfromlife.com
 dynamicwealthresearch.com
