@@ -1,4 +1,5 @@
 ailmenets
+amazon\.in$
 cypesoftware.net
 drawsfromlife.com
 dynamicwealthresearch.com
